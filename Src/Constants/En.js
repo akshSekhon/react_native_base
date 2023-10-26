@@ -1,0 +1,28 @@
+export default {
+    Login: 'Login',
+    Enter_your_credentials_to_start_your_journey: 'Enter your credentials to start your journey.',
+    Register: 'Register',
+    Add_your_details_to_begin_your_registration: 'Add your details to begin your registration.',
+    Forgot_Password: 'Forgot Password',
+    Add_Email_to_reset_password: 'Add Email to reset password',
+    OTP_Verification: 'OTP Verification',
+    Enter_the_OTP_sent_on_: 'Enter the OTP sent on ',
+    Reset_Password: 'Reset Password',
+    Create_a_new_password: 'Create a new password',
+
+    Didnt_recieve_the_OTP: 'Didn’t recieve the OTP?',
+    Email: 'Email',
+    Password: 'Password',
+    Forgot_Password: 'Forgot Password?',
+    Register_here: 'Register here',
+    Dont_have_an_account: 'Don’t have an account?',
+    Name: 'Name',
+    Confirm_Password: 'Confirm Password',
+    Already_have_an_account: 'Already have an account?',
+    LogIn_here: 'LogIn here',
+    Send_OTP: 'Send OTP',
+    Resend_OTP: 'Resend OTP',
+    Verify_OTP: 'Verify OTP',
+    New_Password: 'New Password',
+
+};

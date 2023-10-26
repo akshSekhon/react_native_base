@@ -1,0 +1,7 @@
+{
+  "name": "Express_Minds",
+  "displayName": "Express_Minds",
+  "plugins": [
+    "@notifee/react-native"
+  ]
+}

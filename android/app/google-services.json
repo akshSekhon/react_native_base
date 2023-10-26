@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "591791699619",
+    "project_id": "expressminds-483a3",
+    "storage_bucket": "expressminds-483a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591791699619:android:96297b6db1f288f246f116",
+        "android_client_info": {
+          "package_name": "com.app.expressMinds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvYu3YnSmQ6D3Et-_Vo_ZTXC4juYw2niQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
